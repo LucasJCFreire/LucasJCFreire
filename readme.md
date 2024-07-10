@@ -1,7 +1,12 @@
 <table>
   <tr>
-    <th style="width: 50%;">English</th>
-    <th style="width: 50%;">Portuguese</th>
+    <th style="width: 50%;">
+      <img src="./assets/images/usa.svg" alt="HTML logo" title="HTML" style="width: 30px;"><br>
+      English
+    </th>
+    <th style="width: 50%;">
+      <img src="./assets/images/brazil.svg" alt="HTML logo" title="HTML" style="width: 30px;"><br>
+      Portuguese</th>
   </tr>
   <tr>
     <td><p>Hello 👋</p></td>
@@ -17,11 +22,11 @@
   </tr>
   <tr>
     <th colspan="2">
-      <a href="https://www.linkedin.com/in/LucasJCFreire" title="LinkedIn Profile"><img src="./assets/images/badges/LinkedIn.svg" alt="LinkedIn Profile" style="margin-right: 10px;"></a>
-      <a href="https://www.frontendmentor.io/profile/LucasJCFreire" title="Frontend Mentor Profile"><img src="./assets/images/badges/FrontendMentor.svg" alt="Frontend Mentor Profile" style="margin-right: 10px;"></a>
-      <a href="https://github.com/LucasJCFreire" title="GitHub Profile"><img src="./assets/images/badges/Github.svg" alt="GitHub Profile" style="margin-right: 10px;"></a>
-      <a href="https://x.com/LucasJCFreire" title="X Profile"><img src="./assets/images/badges/x.svg" alt="X Profile" style="margin-right: 10px;"></a>
-      <a href="mailto:lucasjcfreire@outlook.com" title="Outlook mail"><img src="./assets/images/badges/Outlook.svg" alt="Outlook mail"></a>
+      <a href="https://www.linkedin.com/in/LucasJCFreire" title="LinkedIn Profile"><img src="./assets/images/linkedin_small.svg" alt="LinkedIn Profile" style="margin-right: 10px;"></a>
+      <a href="https://www.frontendmentor.io/profile/LucasJCFreire" title="Frontend Mentor Profile"><img src="./assets/images/frontendmentor_small.svg" alt="Frontend Mentor Profile" style="margin-right: 10px;"></a>
+      <a href="https://github.com/LucasJCFreire" title="GitHub Profile"><img src="./assets/images/github_small.svg" alt="GitHub Profile" style="margin-right: 10px;"></a>
+      <a href="https://x.com/LucasJCFreire" title="X Profile"><img src="./assets/images/x_small.svg" alt="X Profile" style="margin-right: 10px;"></a>
+      <a href="mailto:lucasjcfreire@outlook.com" title="Outlook mail"><img src="./assets/images/outlook_small.svg" alt="Outlook mail"></a>
     </th>
   </tr>
   <tr>
@@ -46,15 +51,16 @@
   </tr>
   <tr>
     <th colspan="2">
-      <img src="./assets/images/shields/html.svg" alt="HTML logo" title="HTML" style="width: 70px;">
-      <img src="./assets/images/shields/css.svg" alt="CSS logo" title="CSS" style="width: 70px;">
-      <img src="./assets/images/shields/javascript.svg" alt="JavaScript logo" title="JavaScript" style="width: 70px;">
-      <img src="./assets/images/shields/tailwind.svg" alt="Tailwind logo" title="Tailwind CSS" style="width: 70px;">
-      <img src="./assets/images/shields/sass.svg" alt="Sass logo" title="Sass" style="width: 70px;">
-      <img src="./assets/images/shields/react.svg" alt="React logo" title="React" style="width: 70px;">
-      <img src="./assets/images/shields/styled.svg" alt="Styled Components logo" title="Styled Components" style="width: 70px;">
-      <img src="./assets/images/shields/jest.svg" alt="Jest logo" title="Jest" style="width: 70px;">
-      <img src="./assets/images/shields/postgre.svg" alt="PostgreSQL logo" title="PostgreSQL" style="width: 70px;">
+      <img src="./assets/images/html_large.svg" alt="HTML logo" title="HTML" style="width: 70px;">
+      <img src="./assets/images/css_large.svg" alt="CSS logo" title="CSS" style="width: 70px;">
+      <img src="./assets/images/javascript_large.svg" alt="JavaScript logo" title="JavaScript" style="width: 70px;">
+      <img src="./assets/images/tailwind_large.svg" alt="Tailwind logo" title="Tailwind CSS" style="width: 70px;">
+      <img src="./assets/images/sass_large.svg" alt="Sass logo" title="Sass" style="width: 70px;">
+      <img src="./assets/images/react_large.svg" alt="React logo" title="React" style="width: 70px;">
+      <img src="./assets/images/styled_large.svg" alt="Styled Components logo" title="Styled Components" style="width: 70px;">
+      <img src="./assets/images/git_large.svg" alt="Github logo" title="Github" style="width: 70px;">
+      <img src="./assets/images/jest_large.svg" alt="Jest logo" title="Jest" style="width: 70px;">
+      <img src="./assets/images/postgre_large.svg" alt="PostgreSQL logo" title="PostgreSQL" style="width: 70px;">
     </th>
   </tr>
   <tr>
@@ -63,11 +69,11 @@
   </tr>
   <tr>
     <th colspan="2">
-      <img src="./assets/images/shields/linux.svg" alt="Linux logo" title="Linux" style="width: 70px;">
-      <img src="./assets/images/shields/notion.svg" alt="Notion logo" title="Notion" style="width: 70px;">
-      <img src="./assets/images/shields/vscode.svg" alt="VSCode logo" title="VSCode" style="width: 70px;">
-      <img src="./assets/images/shields/git.svg" alt="Git logo" title="Git" style="width: 70px;">
-      <img src="./assets/images/shields/figma.svg" alt="Figma logo" title="Figma" style="width: 70px;">
+      <img src="./assets/images/linux_large.svg" alt="Linux logo" title="Linux" style="width: 70px;">
+      <img src="./assets/images/notion_large.svg" alt="Notion logo" title="Notion" style="width: 70px;">
+      <img src="./assets/images/vscode_large.svg" alt="VSCode logo" title="VSCode" style="width: 70px;">
+      <img src="./assets/images/github_large.svg" alt="Git logo" title="Git" style="width: 70px;">
+      <img src="./assets/images/figma_large.svg" alt="Figma logo" title="Figma" style="width: 70px;">
     </th>
   </tr>
   <tr>
