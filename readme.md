@@ -1,11 +1,11 @@
 <table>
   <tr>
     <th style="width: 50%;">
-      <img src="./assets/images/usa.svg" alt="HTML logo" title="HTML" style="width: 30px;"><br>
+      <img src="./assets/images/usa.svg" alt="USA Flag" title="English" style="width: 30px;"><br>
       English
     </th>
     <th style="width: 50%;">
-      <img src="./assets/images/brazil.svg" alt="HTML logo" title="HTML" style="width: 30px;"><br>
+      <img src="./assets/images/brazil.svg" alt="Brazil Flag" title="Portuguese" style="width: 30px;"><br>
       Portuguese</th>
   </tr>
   <tr>
@@ -56,6 +56,7 @@
       <img src="./assets/images/javascript_large.svg" alt="JavaScript logo" title="JavaScript" style="width: 70px;">
       <img src="./assets/images/tailwind_large.svg" alt="Tailwind logo" title="Tailwind CSS" style="width: 70px;">
       <img src="./assets/images/sass_large.svg" alt="Sass logo" title="Sass" style="width: 70px;">
+      <img src="./assets/images/gulp_large.svg" alt="gulp logo" title="Gulp" style="width: 70px;">
       <img src="./assets/images/react_large.svg" alt="React logo" title="React" style="width: 70px;">
       <img src="./assets/images/styled_large.svg" alt="Styled Components logo" title="Styled Components" style="width: 70px;">
       <img src="./assets/images/git_large.svg" alt="Github logo" title="Github" style="width: 70px;">
