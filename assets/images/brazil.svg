@@ -1,2 +1,13 @@
-<?xml version="1.0" encoding="utf-8"?><!-- Uploaded to: SVG Repo, www.svgrepo.com, Generator: SVG Repo Mixer Tools -->
-<svg width="800px" height="800px" viewBox="0 0 36 36" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" aria-hidden="true" role="img" class="iconify iconify--twemoji" preserveAspectRatio="xMidYMid meet"><path fill="#009B3A" d="M36 27a4 4 0 0 1-4 4H4a4 4 0 0 1-4-4V9a4 4 0 0 1 4-4h28a4 4 0 0 1 4 4v18z"></path><path fill="#FEDF01" d="M32.728 18L18 29.124L3.272 18L18 6.875z"></path><circle fill="#002776" cx="17.976" cy="17.924" r="6.458"></circle><path fill="#CBE9D4" d="M12.277 14.887a6.406 6.406 0 0 0-.672 2.023c3.995-.29 9.417 1.891 11.744 4.595c.402-.604.7-1.28.883-2.004c-2.872-2.808-7.917-4.63-11.955-4.614z"></path><path fill="#88C9F9" d="M12 18.233h1v1h-1zm1 2h1v1h-1z"></path><path fill="#55ACEE" d="M15 18.233h1v1h-1zm2 1h1v1h-1zm4 2h1v1h-1zm-3 1h1v1h-1zm3-6h1v1h-1z"></path><path fill="#3B88C3" d="M19 20.233h1v1h-1z"></path></svg>
+<svg width="64" height="42" viewBox="0 0 64 42" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g clip-path="url(#clip0_656_1225)">
+<path d="M5.8 0H58.1C61.4 0 64 2.6 64 5.7V36.3C64 39.5 61.4 42 58.2 42H5.8C2.6 42 0 39.4 0 36.3V5.7C0 2.6 2.6 0 5.8 0Z" fill="#008F3E"/>
+<path d="M4 21L32 0L60 21L32 42L4 21Z" fill="#F8C300"/>
+<path d="M32 35C39.6768 35 45.9 28.732 45.9 21C45.9 13.268 39.6768 7 32 7C24.3232 7 18.1 13.268 18.1 21C18.1 28.732 24.3232 35 32 35Z" fill="#28166F"/>
+<path d="M44.5 28C44.9 27.2 45.2 26.3 45.4 25.4C41.2 15.8 30.1 11.4 20.6 15.6C20.2 15.8 19.8 16 19.4 16.2C19.1 16.9 18.8 17.6 18.6 18.3C27.9 13.6 39.2 17.3 43.9 26.7C44.1 27.1 44.3 27.5 44.5 28Z" fill="white"/>
+</g>
+<defs>
+<clipPath id="clip0_656_1225">
+<rect width="64" height="42" fill="white"/>
+</clipPath>
+</defs>
+</svg>
