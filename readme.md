@@ -22,10 +22,10 @@
   </tr>
   <tr>
     <th colspan="2">
-      <a href="https://www.linkedin.com/in/LucasJCFreire" title="LinkedIn Profile"><img src="./assets/images/linkedin_small.svg" alt="LinkedIn Profile" style="margin-right: 10px;"></a>
-      <a href="https://www.frontendmentor.io/profile/LucasJCFreire" title="Frontend Mentor Profile"><img src="./assets/images/frontendmentor_small.svg" alt="Frontend Mentor Profile" style="margin-right: 10px;"></a>
-      <a href="https://github.com/LucasJCFreire" title="GitHub Profile"><img src="./assets/images/github_small.svg" alt="GitHub Profile" style="margin-right: 10px;"></a>
-      <a href="https://x.com/LucasJCFreire" title="X Profile"><img src="./assets/images/x_small.svg" alt="X Profile" style="margin-right: 10px;"></a>
+      <a href="https://www.linkedin.com/in/LucasJCFreire" title="LinkedIn Profile" target="_blank"><img src="./assets/images/linkedin_small.svg" alt="LinkedIn Profile" style="margin-right: 10px;"></a>
+      <a href="https://www.frontendmentor.io/profile/LucasJCFreire" title="Frontend Mentor Profile" target="_blank"><img src="./assets/images/frontendmentor_small.svg" alt="Frontend Mentor Profile" style="margin-right: 10px;"></a>
+      <a href="https://github.com/LucasJCFreire" title="GitHub Profile" target="_blank"><img src="./assets/images/github_small.svg" alt="GitHub Profile" style="margin-right: 10px;"></a>
+      <a href="https://x.com/LucasJCFreire" title="X Profile" target="_blank"><img src="./assets/images/x_small.svg" alt="X Profile" style="margin-right: 10px;"></a>
       <a href="mailto:lucasjcfreire@outlook.com" title="Outlook mail"><img src="./assets/images/outlook_small.svg" alt="Outlook mail"></a>
     </th>
   </tr>
@@ -63,6 +63,7 @@
       <img src="./assets/images/gulp_large.svg" alt="gulp logo" title="Gulp" style="width: 70px;">
       <img src="./assets/images/react_large.svg" alt="React logo" title="React" style="width: 70px;">
       <img src="./assets/images/styled_large.svg" alt="Styled Components logo" title="Styled Components" style="width: 70px;">
+      <img src="./assets/images/nextjs_large.svg" alt="NextJs logo" title="NextJs" style="width: 70px;">
       <img src="./assets/images/git_large.svg" alt="Github logo" title="Github" style="width: 70px;">
       <img src="./assets/images/jest_large.svg" alt="Jest logo" title="Jest" style="width: 70px;">
       <img src="./assets/images/postgre_large.svg" alt="PostgreSQL logo" title="PostgreSQL" style="width: 70px;">
@@ -87,7 +88,7 @@
   </tr>
     <tr>
         <th colspan="2">
-            <a href="https://github.com/LucasJCFreire/challenges" title="Click to access the challenges repository">
+            <a href="https://github.com/LucasJCFreire/challenges" title="Click to access the challenges repository" target="_blank">
                 <img src="https://raw.githubusercontent.com/LucasJCFreire/LucasJCFreire/main/assets/images/challenges_main.png" alt="Banner de Desafios"/>
                 <p>Click to access the challenges repository</p>
             </a>
@@ -95,7 +96,7 @@
     </tr>
         <tr>
         <th colspan="2">
-            <a href="https://storiesformatthew.vercel.app/" title="Click to access page Stories for Matthew">
+            <a href="https://storiesformatthew.vercel.app/" title="Click to access page Stories for Matthew" target="_blank">
                 <img src="./assets/images/storiesformatthew.png" alt="Banner do site Stories for Matthew"/>
                 <p>Click to access the Stories for Matthew website</p>
             </a>
