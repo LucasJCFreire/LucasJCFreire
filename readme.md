@@ -30,8 +30,8 @@
     </th>
   </tr>
   <tr>
-    <td><p>Hello! My name is Lucas Jones. I work in the metallurgical sector, but I've always had an inclination towards programming. In 2024, I decided to focus on web development and have been creating projects to enhance my skills.</p></td>
-    <td><p>Olá! Meu nome é Lucas Jones. Trabalho no setor metalúrgico, mas sempre tive uma tendência para a programação. Em 2024, decidi me dedicar ao desenvolvimento web e venho criando projetos para aprimorar minhas habilidades.</p></td>
+    <td><p>I work in the metallurgical sector, but I've always had an inclination towards programming. In 2024, I decided to focus on web development and have been creating projects to enhance my skills.</p></td>
+    <td><p>Trabalho no setor metalúrgico, mas sempre tive uma tendência para a programação. Em 2024, decidi me dedicar ao desenvolvimento web e venho criando projetos para aprimorar minhas habilidades.</p></td>
   </tr>
   <tr>
     <td><p>It is difficult to find a vocation, but when we find it, we cannot ignore it.</p></td>
