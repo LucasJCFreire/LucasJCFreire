@@ -30,12 +30,16 @@
     </th>
   </tr>
   <tr>
-    <td><p>I'm a programming enthusiast. I've always had a technological tendency, but I've never worked in the area. In January 2024, I decided to invest in this passion, consistently dedicating myself to studying and developing programming skills.</p></td>
-    <td><p>Sou um entusiasta de programação. Sempre tive uma tendência tecnológica, mas nunca trabalhei na área. Em janeiro de 2024, decidi investir nessa paixão, dedicando-me consistentemente ao estudo e desenvolvimento de habilidades em programação.</p></td>
+    <td><p>Hello! My name is Lucas Jones. I work in the metallurgical sector, but I've always had an inclination towards programming. In 2024, I decided to focus on web development and have been creating projects to enhance my skills.</p></td>
+    <td><p>Olá! Meu nome é Lucas Jones. Trabalho no setor metalúrgico, mas sempre tive uma tendência para a programação. Em 2024, decidi me dedicar ao desenvolvimento web e venho criando projetos para aprimorar minhas habilidades.</p></td>
   </tr>
   <tr>
     <td><p>It is difficult to find a vocation, but when we find it, we cannot ignore it.</p></td>
     <td><p>É difícil encontrar uma vocação, mas quando a encontramos, não podemos ignorá-la.</p></td>
+  </tr>
+  <tr>
+    <td><p>My goal is to turn this passion into code and pursue a career in programming.</p></td>
+    <td><p>Meu objetivo é transformar essa paixão em código e seguir uma carreira na programação.</p></td>
   </tr>
   <tr>
     <th style="width: 50%;">What will you find in this profile?</th>
