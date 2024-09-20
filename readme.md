@@ -77,6 +77,26 @@
       <img src="./assets/images/figma_large.svg" alt="Figma logo" title="Figma" style="width: 70px;">
     </th>
   </tr>
+    <tr>
+    <th style="width: 50%;">Check out some of my projects below</th>
+    <th style="width: 50%;">Confira alguns dos meus projetos abaixo</th>
+  </tr>
+    <tr>
+        <th colspan="2">
+            <a href="https://github.com/LucasJCFreire/challenges" title="Click to access the challenges repository">
+                <img src="https://raw.githubusercontent.com/LucasJCFreire/LucasJCFreire/main/assets/images/challenges_main.png" alt="Banner de Desafios"/>
+                <p>Click to access the challenges repository</p>
+            </a>
+        </th>
+    </tr>
+        <tr>
+        <th colspan="2">
+            <a href="https://storiesformatthew.vercel.app/" title="Click to access page Stories for Matthew">
+                <img src="./assets/images/storiesformatthew.png" alt="Banner do site Stories for Matthew"/>
+                <p>Click to access the Stories for Matthew website</p>
+            </a>
+        </th>
+    </tr>
   <tr>
     <th style="width: 50%;">GitHub Stats</th>
     <th style="width: 50%;">Estatísticas do GitHub</th>
