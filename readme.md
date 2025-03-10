@@ -88,7 +88,7 @@
   </tr>
     <tr>
         <th colspan="2">
-            <a href="https://github.com/LucasJCFreire/challenges" title="Click to access the challenges repository" target="_blank">
+            <a href="https://challenges-lucasjcfreire.vercel.app/" title="Click to access the challenges repository" target="_blank">
                 <img src="https://raw.githubusercontent.com/LucasJCFreire/LucasJCFreire/main/assets/images/challenges_main.png" alt="Banner de Desafios"/>
                 <p>Click to access the challenges repository</p>
             </a>
