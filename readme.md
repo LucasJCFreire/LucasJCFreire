@@ -30,24 +30,24 @@
     </th>
   </tr>
   <tr>
-    <td><p>I work in the metallurgical sector, but I've always had an inclination towards programming. In 2024, I decided to focus on web development and have been creating projects to enhance my skills.</p></td>
-    <td><p>Trabalho no setor metalúrgico, mas sempre tive uma tendência para a programação. Em 2024, decidi me dedicar ao desenvolvimento web e venho criando projetos para aprimorar minhas habilidades.</p></td>
+    <td><p>I worked for 10 years in the air defense equipment manufacturing sector, starting as a CNC programmer, then as a technician, and later as a leader.</p></td>
+    <td><p>Atuei por 10 anos no setor de fabricação de equipamentos de defesa aérea, iniciando como programador CNC, depois como técnico e, posteriormente, como líder.</p></td>
   </tr>
   <tr>
+    <td><p>I am a dedicated and creative professional with a strong inclination toward technology. I am currently enhancing my skills in web development, aiming to strengthen both my technical and theoretical knowledge.</p></td>
+    <td><p>Sou um profissional dedicado, criativo e sempre tive uma tendência tecnologica. Atualmente, estou me aperfeiçoando na área de desenvolvimento web, buscando fortalecer minhas habilidades técnicas e teóricas.</p></td>
+  </tr>
+    <tr>
     <td><p>It is difficult to find a vocation, but when we find it, we cannot ignore it.</p></td>
     <td><p>É difícil encontrar uma vocação, mas quando a encontramos, não podemos ignorá-la.</p></td>
   </tr>
   <tr>
-    <td><p>My goal is to turn this passion into code and pursue a career in programming.</p></td>
-    <td><p>Meu objetivo é transformar essa paixão em código e seguir uma carreira na programação.</p></td>
+    <th style="width: 50%;">Discover More About My Work</th>
+    <th style="width: 50%;">Descubra mais sobre meu trabalho</th>
   </tr>
   <tr>
-    <th style="width: 50%;">What will you find in this profile?</th>
-    <th style="width: 50%;">O que você encontrará neste perfil?</th>
-  </tr>
-  <tr>
-    <td><p>Here, you will find a collection of projects related to the technologies I study, all well organized for easy access.</p></td>
-    <td><p>Aqui, você encontrará uma coleção de projetos relacionados às tecnologias que estudo, todos bem organizados para fácil acesso.</p></td>
+    <td><p>Explore my <a href="https://lucasjcfreire.vercel.app">portfolio</a> to learn more about my work, and if you believe I can contribute to your team, please get in touch.</p></td>
+    <td><p>Explore meu <a href="https://lucasjcfreire.vercel.app">portfólio</a> para conhecer melhor meu trabalho e, caso entenda que eu possa contribuir com sua equipe, por favor, entre em contato.</p></td>
   </tr>
   <tr>
     <th style="width: 50%;">Technologies I'm familiar with</th>
@@ -58,6 +58,7 @@
       <img src="./assets/images/html_large.svg" alt="HTML logo" title="HTML" style="width: 70px;">
       <img src="./assets/images/css_large.svg" alt="CSS logo" title="CSS" style="width: 70px;">
       <img src="./assets/images/javascript_large.svg" alt="JavaScript logo" title="JavaScript" style="width: 70px;">
+      <img src="./assets/images/typescript_large.svg" alt="JavaScript logo" title="JavaScript" style="width: 70px;">
       <img src="./assets/images/tailwind_large.svg" alt="Tailwind logo" title="Tailwind CSS" style="width: 70px;">
       <img src="./assets/images/sass_large.svg" alt="Sass logo" title="Sass" style="width: 70px;">
       <img src="./assets/images/gulp_large.svg" alt="gulp logo" title="Gulp" style="width: 70px;">
